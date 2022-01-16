@@ -1,0 +1,74 @@
+@charset "UTF-8";
+
+
+body{
+	margin: 0;
+	padding: 0;
+}
+
+img{
+	position: absolute;
+	}
+
+	.centerportal{
+	left: 639px;
+	top: 465px;
+	opacity: 0; 
+	transition: opacity 0s;
+	}
+
+	.centerportal:hover{
+	opacity: 1;
+}
+
+	.galaxypath{
+	left: 746px;
+	top: 1068px;
+	opacity: 0;
+	transition: opacity 0s;
+	}
+	.galaxypath:hover{
+	opacity: 1;
+}
+
+	.spaceland{
+ 	left: 1146px;
+  	top: 0px;
+	opacity: 0;
+	transition: opacity 0s;
+	}
+	.spaceland:hover{
+	opacity: 1;
+}
+
+	.leftbluestars{
+	left: 113px;
+	top: 0px;
+	opacity: 0;
+	transition: opacity 0s;
+	}
+	.leftbluestars:hover{
+	opacity: 1;
+}
+
+.monarch1{
+	left: 553px;
+	top: 240px;
+}
+
+.monarch2{
+	left: 534px;
+	top: 358px;
+}
+
+.monarch3{
+	left: 587px;
+	top: 430px;
+}
+
+.woodsounds{
+	position: absolute;
+	left: 900px;
+	opacity: 0.5;
+}
+
